@@ -177,12 +177,12 @@ aside{
 
 .select{
    background-color: hsl(215, 8%, 29%);
-   width: 50%;
+   width: 55%;
    color:hsl(25, 97%, 53%) ; 
    border-radius: 0.8em;
    padding: 0.2em;
    margin: auto;
-   font-size: 0.8em;
+   font-size: 0.7em;
    opacity: 78%;
 }
 
